@@ -1,0 +1,4 @@
+This program searches and fetches the description of top paid udemy courses based on users area of
+interest.
+This is not the official udemy site.  The data is fetched and stored to the file "course_descriptor.txt".
+This program is using the above site for research purpose only and not for piracy of any kind. 
